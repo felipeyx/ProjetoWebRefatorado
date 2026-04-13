@@ -1,0 +1,5 @@
+br\senac\service\ProdutoService.class
+br\senac\exception\NegocioException.class
+br\senac\model\Produto.class
+br\senac\repository\ProdutoRepository.class
+br\senac\service\CalculadoraEstoque.class
