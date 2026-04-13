@@ -1,0 +1,10 @@
+src/br/senac/model/Produto.java
+src/br/senac/model/Cliente.java
+src/br/senac/repository/ProdutoRepository.java
+src/br/senac/repository/ClienteRepository.java
+src/br/senac/service/ProdutoService.java
+src/br/senac/service/ClienteService.java
+src/br/senac/controller/ProdutoController.java
+src/br/senac/controller/ClienteController.java
+src/br/senac/exception/NegocioException.java
+src/br/senac/Main.java
