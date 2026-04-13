@@ -1,6 +1,6 @@
 # ProjetoWebRefatorado
 
-Refatoração de um sistema desktop em Java, desenvolvida para a Etapa 6 do Projeto Integrador do Senac, com foco em reutilização para sistema web.
+Refatoração de um sistema desktop em Java, desenvolvida para a Projeto Integrador do Senac, com foco em reutilização para sistema web.
 
 ## Estrutura
 - Model
